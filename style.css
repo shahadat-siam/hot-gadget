@@ -1,0 +1,42 @@
+.container{
+    margin-bottom: 10px;
+}
+.bye{
+    border-radius:5px;
+    background-color: black;
+    color: aliceblue;
+   
+}
+.bg{
+    height: 400px;
+ 
+}
+#bordar{
+    border: none;
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 5px;
+    
+} 
+ 
+ .cata:after{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    content: '';
+    display: block;
+    background: orange;
+    height: 5px;
+    width: 100px;
+    border-radius: 4px;
+    margin: auto;
+    transform: translateY(10px);
+
+}
+.size{
+    height: 600px;
+    width: 600px;
+}
+.path{
+    height: 10px;
+}
+ .devi{
+    margin:  10px;
+ }
